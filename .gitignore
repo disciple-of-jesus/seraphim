@@ -42,3 +42,7 @@
 
 # Visual Studio files
 .vs
+
+# Juice (library) Files
+Builds
+JuceLibraryCode
